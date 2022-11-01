@@ -1,3 +1,7 @@
 <h1 align="center">Всем привет меня зову Павел
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<ul align="center">
+  <li><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>хочу научиться писать чистый читабельный код</li>
+  <li><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>освоить новые фреймворки</li>
+  <li><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>хочу работаь с опытными коллегами</li>
+ </ul>
